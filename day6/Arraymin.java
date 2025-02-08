@@ -1,4 +1,4 @@
-public class Arraymax{
+public class Arraymin{
     public static void main(String[] args) {
         int a[]={4,8,3,6,1};
         
